@@ -1,0 +1,46 @@
+body {
+    background-color: #CADCFC;
+ }
+ 
+
+.title {
+    color: #7A2048;
+    font-family: "Poppins", Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 56px;
+}
+
+.head {
+    color: #1E2761;
+    font-family: "Poppins", Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 56px;
+}
+
+.subhead {
+    color: #00246B;
+    font-family: "Poppins", Arial, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    font-size: 38px;
+}
+
+.list {
+    font-size: 28px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 300px
+}
+
+div {
+    font-size: 22;
+    font-family: Arial, sans-serif;
+}
